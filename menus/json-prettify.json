@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle json-prettify",
+        "command": "json-prettify:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "json-prettify",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "json-prettify:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
