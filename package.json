@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "json-prettify:toggle"
   },
-  "repository": "https://github.com/atom/json-prettify",
+  "repository": "https://github.com/toxtli/atom-plugin-json-prettify",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
